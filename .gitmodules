@@ -1,0 +1,3 @@
+[submodule "lib/i2.c"]
+	path = lib/i2.c
+	url = git@github.com:amberstarlight/i2.c.git
